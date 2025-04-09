@@ -5,7 +5,7 @@
 
 ## 🔒 Source Code
 This project is currently private.  
-If you're interested in accessing the source code for review or collaboration, please contact me via [LinkedIn](https://www.linkedin.com/in/dedi-yanto-776b861b4/) or email(dediyanto180@gmail.com).
+If you're interested in accessing the source code for review or collaboration, please contact me via [LinkedIn](https://www.linkedin.com/in/dedi-yanto-776b861b4/) or [Email](dediyanto180@gmail.com).
 
 ## ⚠️ Keterbatasan Saat Ini
 
